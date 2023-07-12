@@ -35,7 +35,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Math Magicians <a name="about-project"></a>
+# 📖 React Task Manager <a name="about-project"></a>
 
 **React Task Manager** is a tool that helps to organize your day. It simply lists the things that you need to do and allows you to mark them as complete.
 
@@ -71,10 +71,6 @@
       <a href="https://sass-lang.com/">SASS</a>
     </li>
     <li>
-      <img src="https://skillicons.dev/icons?i=bootstrap"/>
-      <a href="https://getbootstrap.com/">Bootstrap</a>
-    </li>
-    <li>
       <img src="https://skillicons.dev/icons?i=html"/>
       <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a>
     </li>
@@ -85,7 +81,6 @@
 ### Key Features <a name="key-features"></a>
 
 - **SPA app**
-- **Responsive design**
 - **Built with React.js**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -165,6 +160,8 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 ## 🔭 Future Features <a name="future-features"></a>
 
 - [ ] **more pages**
+- [ ] **Responsive design**
+- [ ] **Bootstrap**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
