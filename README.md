@@ -1,9 +1,9 @@
 <a name="readme-top"></a>
 
 <div align="center">
-    <h1>🧙</h1>
+    <h1>⚛️ ✍️ ⚛️</h1>
     <!-- <img src="src/assets/" alt="" width="130"  height="auto" /> -->
-    <h2><b>Math Magicians</b></h2>
+    <h2><b>React Task Manager</b></h2>
 </div>
 
 ---
@@ -35,12 +35,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Math Magicians <a name="about-project"></a>
+# 📖 React Task Manager <a name="about-project"></a>
 
-**Math Magicians** is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to:
-
-- Make simple calculations.
-- Read a random math-related quote.
+**React Task Manager** is a tool that helps to organize your day. It simply lists the things that you need to do and allows you to mark them as complete.
 
 ---
 
@@ -49,6 +46,10 @@
 - Use React components.
 - Use React props.
 - Use React state.
+- Use React hooks.
+- Use JavaScript events.
+- Use React life cycle methods.
+- Understand the mechanism of lifting state up.
 
 ---
 
@@ -56,53 +57,31 @@
 
 ### Tech Stack <a name="tech-stack"></a>
 
-<details>
-  <summary>Markup</summary>
   <ul>
-    <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a></li>
+    <li>
+      <img src="https://skillicons.dev/icons?i=react"/>
+      <a href="https://react.dev/">React.js</a>
+    </li>
+    <li>
+      <img src="https://skillicons.dev/icons?i=js"/>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">JavaScript</a>
+    </li>
+    <li>
+      <img src="https://skillicons.dev/icons?i=sass"/>
+      <a href="https://sass-lang.com/">SASS</a>
+    </li>
+    <li>
+      <img src="https://skillicons.dev/icons?i=html"/>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a>
+    </li>
   </ul>
-</details>
-
-<details>
-<summary>Dynamic</summary>
-  <ul>
-    <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">JavaScript</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Styles</summary>
-  <ul>
-    <li><a href="https://sass-lang.com/">SASS</a></li>
-    <li><a href="https://getbootstrap.com/">Bootstrap</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Frameworks</summary>
-  <ul>
-    <li><a href="https://react.dev/">React.js</a></li>
-  </ul>
-</details>
-
----
 
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
-- **FEATURE 1**
-- **FEATURE 2**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
----
-
-<!-- LIVE DEMO -->
-
-<!-- ## 🚀 Live Demo <a name="live-demo"></a>
-
-- [Live Demo Link](https://iturres.github.io/Task-Manager/dist/) -->
+- **SPA app**
+- **Built with React.js**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -126,7 +105,7 @@ Example commands:
 
 ```bash
   cd my-folder
-  git clone git@github.com:ITurres/math-magicians.git
+  git clone git@github.com:ITurres/react-task-manager.git
 ```
 
 ### Install
@@ -180,7 +159,9 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **future features 1**
+- [ ] **more pages**
+- [ ] **Responsive design**
+- [ ] **Bootstrap**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -192,7 +173,7 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/ITurres/react-task-manager/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
